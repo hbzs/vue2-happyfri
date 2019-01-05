@@ -13,7 +13,7 @@ export default {
   		itemcontainer
   	},
     created(){
-        
+        this.$router.push('score')
     }
 }
 </script>
